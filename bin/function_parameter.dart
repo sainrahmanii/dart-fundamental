@@ -5,4 +5,5 @@ void name(firstName, lastName){
 void main(){
   name('Husain', 'Rahmani');
   name('Rahmani', 'Husain');
+  name(12, 21);
 }
