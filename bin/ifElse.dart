@@ -12,8 +12,7 @@ void main() {
   }
 
   // else if digunakan untuk membuat banyak percabangan
-  if(latihan >= 80 && performance >= 80)
-  {
+  if(latihan >= 80 && performance >= 80) {
     print('Good');
   }else if(latihan >= 70 && performance >= 70){
     print('Sudah Bagus');
